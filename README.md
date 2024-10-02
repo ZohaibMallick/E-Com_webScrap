@@ -1,5 +1,10 @@
 # E-Com_webScrap
 
+## Prerequisites
+- Ensure you have Python installed on your system (version 3.x is recommended).
+- Create three Python files (`search.py`, `server.py`, and `client.py`) in the same directory.
+
+
 ### ***Sample URL:***
 ##### '''https://books.toscrape.com/catalogue/category/books/science_22/index.html'''
 #### *Note: E-com websites like Amazon, Flipkart are secured and does not allow to webscrap. As we use a simple website to test the programme.*
