@@ -1,6 +1,6 @@
 # E-Com_webScrap
 
-*This script scrapes product data (name, price, and availability) from an e-commerce website and stores it in a SQLite database. The data can then be exported to a CSV file for further analysis.
+**This script scrapes product data (name, price, and availability) from an e-commerce website and stores it in a SQLite database. The data can then be exported to a CSV file for further analysis.
 
 ## Prerequisites
 
